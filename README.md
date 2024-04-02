@@ -1,2 +1,3 @@
 <h1>Projeto Triangulo</h1>
-<h2>Projeto orientado a objeto que calcula area de um triangulo</h2>
+<p>Projeto orientado a objeto que calcula  a área de um triangulo</p>
+<p>Projeto desenvolvido na UC de Programação.</p>
